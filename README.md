@@ -4,12 +4,12 @@ Clean examples of Sort and Search Algorithms
 
 ```
 .
-├── Sort
+├── Search
 │   ├── sequentialSearch
 │   ├── orderedSequentialSearch
 │   ├── binarySearch
 │   ├── HashTable
-├── Search
+├── Sort
 │   ├── bubbleSort
 │   ├── shortBubbleSort
 │   ├── selectionSort
